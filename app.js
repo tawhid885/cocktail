@@ -70,7 +70,6 @@ const displsyData=(data)=>{
             </div>
         </div>`;
         display.appendChild(div);
-        // console.log(item.idDrink);
     })
 }
 
